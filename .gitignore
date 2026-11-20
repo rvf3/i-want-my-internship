@@ -1,0 +1,7 @@
+venv/
+cv_fr.txt
+cv_en.txt
+offres.txt
+suivi_candidatures.csv
+candidatures_pretes.md
+.DS_Store
